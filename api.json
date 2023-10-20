@@ -1,0 +1,52 @@
+{
+    "produtos": [
+        {
+            "id": "1",
+            "nome": "Açúcar Refinado União 1Kg",
+            "imagePath": "https://assets.vtex.app/unsafe/1020x930/center/middle/https%3A%2F%2Fcarrefourbrfood.vtexassets.com%2Farquivos%2Fids%2F110671124%2Facucar-refinado-uniao-1kg-1.jpg%3Fv%3D638182056322230000",
+            "preco": 5.99
+        },
+        {
+            "id": "2",
+            "nome": "Refrigerante Coca-Cola Original 350 ml Pack com 6 Unidades",
+            "imagePath": "https://assets.vtex.app/unsafe/1020x930/center/middle/https%3A%2F%2Fcarrefourbrfood.vtexassets.com%2Farquivos%2Fids%2F118271115%2Frefrigerante-coca-cola-original-350-ml-pack-com-6-unidades-1.jpg%3Fv%3D638217385067770000",
+            "preco": 20.70
+        },
+        {
+            "id": "3",
+            "nome": "Leite Integral UHT Italac 1 Litro",
+            "imagePath": "https://assets.vtex.app/unsafe/1020x930/center/middle/https%3A%2F%2Fcarrefourbrfood.vtexassets.com%2Farquivos%2Fids%2F211134%2F8819505_1.jpg%3Fv%3D637272513226030000",
+            "preco": 3.99
+        },
+        {
+            "id": "4",
+            "nome": "Whisky Jack Daniel’s Old No. 7 Tennessee Whiskey 1L",
+            "imagePath": "https://assets.vtex.app/unsafe/1020x930/center/middle/https%3A%2F%2Fcarrefourbrfood.vtexassets.com%2Farquivos%2Fids%2F121492043%2Fjack-daniel-s-old-no.jpg%3Fv%3D638233853399730000",
+            "preco": 99.17
+        },
+        {
+            "id": "5",
+            "nome": "Picanha Bovina Congelada Aprox 1,6Kg",
+            "imagePath": "https://assets.vtex.app/unsafe/1020x930/center/middle/https%3A%2F%2Fcarrefourbrfood.vtexassets.com%2Farquivos%2Fids%2F127984536%2Fpicanha-bovina-congelada-aprox-16kg-1.jpg%3Fv%3D638278806862530000",
+            "preco": 92.86
+        },
+        {
+            "id": "6",
+            "nome": "Salgadinho De Milho Onda Requeijão Elma Chips Cheetos Pacote 45G",
+            "imagePath": "https://assets.vtex.app/unsafe/1020x930/center/middle/https%3A%2F%2Fcarrefourbrfood.vtexassets.com%2Farquivos%2Fids%2F98074631%2Fsalgadinho-de-milho-onda-requeijao-elma-chips-cheetos-pacote-45g-1.jpg%3Fv%3D638103576209600000",
+            "preco": 3.68
+        },
+        {
+            "id": "7",
+            "nome": "Sabonete em Barra Corporal Phebo Limão Siliciano 100g",
+            "imagePath": "https://assets.vtex.app/unsafe/1020x930/center/middle/https%3A%2F%2Fcarrefourbrfood.vtexassets.com%2Farquivos%2Fids%2F191340%2F9341650_1.jpg%3Fv%3D637272425196330000",
+            "preco": 4.49
+        },
+        {
+            "id": "8",
+            "nome": "Sabonete em Barra Corporal Phebo Limão Siliciano 100g",
+            "imagePath": "https://cdn.shoppub.io/cdn-cgi/image/w=1000,h=1000,q=80,f=auto/cenourao/media/uploads/produtos/foto/dc1f0bf8b4a3file.png",
+            "preco": 6.25
+        }
+    ]
+}
