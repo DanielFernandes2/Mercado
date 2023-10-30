@@ -26,6 +26,7 @@ Set-ExecutionPolicy Unrestricted
 ```
 json-server --watch api.json
 ```
+Nesse ultimo codigo caso você tenha renomeado os arquivos não esqueça de trocar o nome no final do codigo por exemplo  "json-server --watch api.json" em vez de ser api.json você coloca o nome do arquivo no lugar "json-server --watch NOME_DO_ARQUIVO.json"
 
 Para ter seu login é só ir no arquivo api.json e colocar seu email e senha em usuarios
 
