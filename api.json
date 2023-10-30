@@ -48,5 +48,19 @@
             "imagePath": "https://cdn.shoppub.io/cdn-cgi/image/w=1000,h=1000,q=80,f=auto/cenourao/media/uploads/produtos/foto/dc1f0bf8b4a3file.png",
             "preco": 6.25
         }
+    ],
+    "usuarios": [
+        {
+            "id": "1",
+            "nome": "Daniel Fernandes",
+            "email": "danicfernandes8@gmail.com",
+            "senha": "1234"
+        },
+        {
+            "id": "2",
+            "nome": "Jonathan Silva",
+            "email": "jonathan@gmail.com",
+            "senha": "4321"
+        }
     ]
 }

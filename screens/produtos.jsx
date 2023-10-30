@@ -19,11 +19,11 @@ export default function Produtos({navigation}) {
         <View style={styles.containerBetween}>
             <View style={styles.header}>
                 <TouchableOpacity>
-                    <MaterialIcons name="arrow-back" size={24} color="black" onPress={() => navigation.navigate('Comanda') } />
+                    <MaterialIcons name="arrow-back" size={24} color="black" onPress={() => navigation.navigate('Carrinho') } />
                 </TouchableOpacity>
 
                 <View style={styles.box}>
-                    <Text>sacola</Text>
+                    <Text>carrinho</Text>
                     <Text style={styles.title}>2457</Text>
                 </View>
             </View>
@@ -31,7 +31,7 @@ export default function Produtos({navigation}) {
             <View style={styles.pedidos}>
                 <Text style={styles.subtitle}>Pedido</Text>
                 <View style={styles.pedidoData}>
-                    <Text>Saldo do carrinho</Text>
+                    <Text>Saldo da compra</Text>
                     <Text>R$ 0,00</Text>
                 </View>
                 <View style={styles.pedidoData}>
@@ -55,7 +55,7 @@ export default function Produtos({navigation}) {
 
 
             <TouchableOpacity style={styles.button}>
-                <Text style={styles.buttonText}>finalizar</Text>
+                <Text style={styles.buttonText} onPress={() => navigation.navigate('Carrinho') }>finalizar</Text>
             </TouchableOpacity>
         </View>
 
